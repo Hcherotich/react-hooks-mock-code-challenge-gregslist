@@ -43,3 +43,4 @@ const handleDeleteListing = async (id) =>{
         };
 
     
+export default App;
